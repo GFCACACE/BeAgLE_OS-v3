@@ -45,6 +45,12 @@ conda install --file requirements.txt
   * Design the UI.
 </div>
 <div>
+  <h3><b>User Interface</b></h3>
+   <img src="https://github.com/GFCACACE/BeAgLE_OS-v3/assets/88559192/d11665da-ca67-4450-9e3e-9c6819979af6" align="center">
+   <p>The GUI is for a easy interactive use between the admin and the OS.</p>
+  <p><a href="https://www.figma.com/file/2B9Z9eZyCe5r5eKan8pBZZ/BeAgLE-OS?type=design&node-id=9%3A79&mode=design&t=N2NjU7ue4vslmyBO-1">Have a look at the prototypes at Figma</p>
+</div>
+<div>
   <h3><b>Contact</b></h3>
   [Connect with me on LinkedIn](https://www.linkedin.com/in/federico-cacace-137abb212/)
 
