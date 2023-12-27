@@ -77,4 +77,3 @@ class Organization:
 org=Organization(name="Instatronic")
 print(org.organization_path)
 print(str(org.space_available()/1024.0/1024.0/1024.0) + "GiB")
-# print(org.organization_path)

@@ -7,7 +7,7 @@ Created on Fri Dec 22 18:57:53 2023
 
 from enum import Enum
 
-class Token(Enum):
+class State(Enum):
     #Service Tokens
     WAITING="WAITING"
     RUNNING="RUNNING"

@@ -7,11 +7,11 @@ Created on Fri Dec 22 18:43:44 2023
 import os
 
 from Config.PATH import USER_SPACE_PATH
-from Modules.Commons.TOKENS import Token
+from Modules.Commons.TOKENS import State
 
 class Service:
     tasks=[]
-    state=Token.BLOCKED
+    state=State.BLOCKED
     services_path=os.path.join(USER_SPACE_PATH,"Services")
     def __init__(self,
                  name:str,
